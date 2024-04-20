@@ -1,0 +1,84 @@
+*{
+	margin:0;
+}
+body{
+	background-color: #CADCFC;
+}
+.intro{
+	height: 175px;
+	border-radius: 10px;
+	margin-top: 40px;
+	margin-bottom: 50px;
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size: 40px;
+	text-align: center;
+	color: #00246B;
+}
+button{
+	border-radius:8px;
+	background-color:#CADCFC;
+	box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+.bop{
+	background-color: #00246B;
+    padding-top: 20px;
+	padding-bottom: 15px;
+	text-align:center;
+	border-radius: 7px;
+}
+button:hover ,button:active{
+	background-color:#CADCFC;
+	color:#00246B;
+	border-radius:5px;
+	border:2px solid white;
+}
+.about{
+	text-align: center;
+	margin-top: 50px;
+	font-size: 25px;
+	color:#CADCFC;
+	padding:15px 15px 15px 0px;
+	background-color: #00246B;
+	border-radius: 10px;
+	margin:20px 10px 20px 10px;
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.img{
+	
+	text-align: center;
+	margin-top:15px;
+	border-radius:20px;
+}
+.myphoto{
+	width:250px;
+	height:250px;
+	border:3px solid black;
+	border-radius: 50%;
+}
+.skills
+{
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	color:#CADCFC;
+	background-color: #00246B;
+	text-align: center;
+	margin-top:40px;
+	font-size: 25px;
+	box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+	border-radius: 15px;
+	margin-left:10px;
+	margin-right:20px;
+	padding-bottom: 15px;
+}
+.contact{
+	background-color: #00246B;
+	color: #CADCFC;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size: 20px;
+	margin-top: 60px;
+	
+}
+.logo{
+	text-align: center;
+	padding-bottom: 40px;
+}
